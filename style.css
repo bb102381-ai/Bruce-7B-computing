@@ -1,4 +1,14 @@
-<head>
-    <link rel="stylesheet" href="style.css">
-    <title>My Cool Page Title</title>
-</head>
+body {
+
+    background-color: cyan;
+
+
+    color: rgb(12, 121, 112);
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+h1 {
+  
+    color: #008B8B;
+}
