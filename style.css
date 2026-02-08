@@ -12,3 +12,10 @@ h1 {
   font-family: fantasy;
     color: #44f7f7;
 }
+<style>
+  table { width: 100%; border-collapse: collapse; font-family: sans-serif; }
+  th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
+  th { background-color: #f4f4f4; }
+  .tier-a { background-color: #e3f2fd; font-weight: bold; }
+  .tier-b { background-color: #fff3e0; font-weight: bold; }
+</style>
